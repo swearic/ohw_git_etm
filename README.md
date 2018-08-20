@@ -2,3 +2,5 @@
 Ocean Hack Week 2018
 
 This is a repository for practicing GIT
+
+This is an added line.
